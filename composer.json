@@ -1,0 +1,15 @@
+{
+    "name": "hjh/demo",
+    "authors": [
+        {
+            "name": "qmxhjh",
+            "email": "1075340831@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "demo\\": "src/"
+        }
+    }
+}
