@@ -5,6 +5,6 @@ namespace demo;
 class Index{
 
     public function index(){
-        echo '2';
+        echo '3';
     }
 }
